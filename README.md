@@ -3,6 +3,8 @@
 Word data base with over 600 thousand words with frequency each word occur while making the database using legal scrapping.
 
 
+blog - https://www.blog.letscodeofficial.com/@harshnative/600-thousand-english-words-dataset-database/
+
 
 # data base form
 Download the words.db from github repo.
